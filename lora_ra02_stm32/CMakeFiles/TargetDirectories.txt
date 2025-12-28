@@ -1,0 +1,5 @@
+/mnt/dark files/Code/projects/lora_ra02/lora_ra02_stm32/CMakeFiles/lora_ra02_stm32.dir
+/mnt/dark files/Code/projects/lora_ra02/lora_ra02_stm32/CMakeFiles/edit_cache.dir
+/mnt/dark files/Code/projects/lora_ra02/lora_ra02_stm32/CMakeFiles/rebuild_cache.dir
+/mnt/dark files/Code/projects/lora_ra02/lora_ra02_stm32/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/mnt/dark files/Code/projects/lora_ra02/lora_ra02_stm32/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+# ninja log v5
+368	682	1766949945918990187	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	b5bbf2ba2471b020
+0	275	1766949945510982824	CMakeFiles/lora_ra02_stm32.dir/Core/Src/main.c.obj	4b3c447731b35643
+425	642	1766949945878989466	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	d6739fbee13ed381
+226	445	1766949945678985856	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	d78f7b6e64697400
+691	772	1766949946006991776	CMakeFiles/lora_ra02_stm32.dir/Core/Src/syscalls.c.obj	d5334953b5ee29ef
+834	918	1766949946150994374	lora_ra02_stm32.elf	8ea3725cffe08927
+275	605	1766949945838988744	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	f98b144076cf758
+773	813	1766949946046992498	CMakeFiles/lora_ra02_stm32.dir/startup_stm32f401xc.s.obj	a1ee6cab012e4c45
+445	578	1766949945814988311	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	ac31b4e345b33fb6
+642	802	1766949946038992353	CMakeFiles/lora_ra02_stm32.dir/Core/Src/system_stm32f4xx.c.obj	d9901ca44f395c05
+22	232	1766949945462981958	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	30460f98180da3cc
+369	691	1766949945922990260	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	5291cafe4043d3f7
+233	559	1766949945794987949	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	b2892b5c2e51390d
+11	369	1766949945602984484	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj	f0158e4f50122feb
+578	824	1766949946058992714	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	16717f064e2b8c3
+559	834	1766949946070992931	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	5bc2cd461d06167f
+9	249	1766949945482982318	CMakeFiles/lora_ra02_stm32.dir/Core/Src/stm32f4xx_hal_msp.c.obj	4f681a8c0cb12a2
+0	226	1766949945462981958	CMakeFiles/lora_ra02_stm32.dir/Core/Src/stm32f4xx_it.c.obj	dab5d31e6fc8873c
+249	368	1766949945602984484	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	1da812e32479e7bd
+17	425	1766949945658985495	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	dd064ceaf5de3dc3
+682	774	1766949946010991848	CMakeFiles/lora_ra02_stm32.dir/Core/Src/sysmem.c.obj	d360022ea85600cf
+605	823	1766949946058992714	CMakeFiles/lora_ra02_stm32.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	962ce48e52a87fdf
